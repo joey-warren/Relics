@@ -1,0 +1,269 @@
+{
+    "CommonPrefixes": {
+        "description": "Common prefixes that can appear on relics",
+        "affixes": [
+            {
+                "id": "SanctumMaximumLife",
+                "description": "#% increased maximum Life",
+                "valueOperator": "",
+                "minValue": 5,
+                "maxValue": 25
+            },
+            {
+                "id": "SanctumMaximumHonour",
+                "description": "#% increased maximum Honour",
+                "valueOperator": "",
+                "minValue": 9,
+                "maxValue": 45
+            },
+            {
+                "id": "SanctumResolveRecovery",
+                "description": "#% increased Honour restored",
+                "valueOperator": "",
+                "minValue": 6,
+                "maxValue": 45
+            },
+            {
+                "id": "SanctumStartingGold",
+                "description": "Gain # Sacred Water at the start of the Trial",
+                "valueOperator": "",
+                "minValue": 30,
+                "maxValue": 59
+            },
+            {
+                "id": "SanctumMonstersIncreasedDamageTaken",
+                "description": "Monsters take #% increased Damage",
+                "valueOperator": "",
+                "minValue": 11,
+                "maxValue": 30
+            },
+            {
+                "id": "SanctumGuardsIncreasedDamageTaken",
+                "description": "Rare Monsters take #% increased Damage",
+                "valueOperator": "",
+                "minValue": 11,
+                "maxValue": 30
+            },
+            {
+                "id": "SanctumBossIncreasedDamageTaken",
+                "description": "Bosses take #% increased Damage",
+                "valueOperator": "",
+                "minValue": 11,
+                "maxValue": 30
+            },
+            {
+                "id": "SanctumMerchantExtraOptions",
+                "description": "The Merchant has # additional Choices",
+                "valueOperator": "",
+                "minValue": 2,
+                "maxValue": 3
+            },
+            {
+                "id": "SanctumMonstersReducedDamage",
+                "description": "Monsters deal #% reduced Damage",
+                "valueOperator": "",
+                "minValue": 6,
+                "maxValue": 12
+            },
+            {
+                "id": "SanctumGuardsReducedDamage",
+                "description": "Rare Monsters deal #% reduced Damage",
+                "valueOperator": "",
+                "minValue": 5,
+                "maxValue": 10
+            },
+            {
+                "id": "SanctumBossReducedDamage",
+                "description": "Bosses deal #% reduced Damage",
+                "valueOperator": "",
+                "minValue": 5,
+                "maxValue": 10
+            },
+            {
+                "id": "SanctumDefences",
+                "description": "#% increased Defences",
+                "valueOperator": "",
+                "minValue": 20,
+                "maxValue": 70
+            },
+            {
+                "id": "SanctumTrapDamage",
+                "description": "Traps deal #% reduced Damage",
+                "valueOperator": "",
+                "minValue": 6,
+                "maxValue": 15
+            },
+            {
+                "id": "SanctumMovementSpeed",
+                "description": "#% increased Movement Speed",
+                "valueOperator": "",
+                "minValue": 3,
+                "maxValue": 10
+            },
+            {
+                "id": "SanctumAdditionalKeyChance",
+                "description": "When you gain a Key #% chance to gain another",
+                "valueOperator": "",
+                "minValue": 7,
+                "maxValue": 16
+            },
+            {
+                "id": "SanctumMonsterSpeed",
+                "description": "Monsters have #% reduced Attack, Cast and Movement Speed",
+                "valueOperator": "",
+                "minValue": 4,
+                "maxValue": 7
+            },
+            {
+                "id": "SanctumChanceToPreventHonourDeath",
+                "description": "#% chance if you were to lose all your Honour to have # Honour instead",
+                "valueOperator": "",
+                "minValue": 5,
+                "maxValue": 12
+            },
+            {
+                "id": "SanctumKeyUpgradeChance",
+                "description": "#% chance for each of your Keys to upgrade on completing a Floor",
+                "valueOperator": "",
+                "minValue": 3,
+                "maxValue": 9
+            }
+        ]
+    },
+    "CommonSuffixes": {
+        "description": "Common suffixes that can appear on relics",
+        "affixes": [
+            {
+                "id": "SanctumMonstersDoubleGoldChance",
+                "description": "Monsters have #% chance to drop double Sacred Water",
+                "valueOperator": "",
+                "minValue": 5,
+                "maxValue": 15
+            },
+            {
+                "id": "SanctumFountainDoubleGoldChance",
+                "description": "Fountains have #% chance to grant double Sacred Water",
+                "valueOperator": "",
+                "minValue": 5,
+                "maxValue": 15
+            },
+            {
+                "id": "SanctumMerchantReducedCosts",
+                "description": "#% reduced Merchant Prices",
+                "valueOperator": "",
+                "minValue": 6,
+                "maxValue": 10
+            },
+            {
+                "id": "SanctumMaximumResolveOnBossKill",
+                "description": "Restore # Honour on killing a Boss",
+                "valueOperator": "",
+                "minValue": 40,
+                "maxValue": 150
+            },
+            {
+                "id": "SanctumMaximumResolveOnFountainUse",
+                "description": "Restore # Honour on venerating a Maraketh Shrine",
+                "valueOperator": "",
+                "minValue": 25,
+                "maxValue": 75
+            },
+            {
+                "id": "SanctumGoldOnRoomCompletion",
+                "description": "Gain # Sacred Water when you complete a Room",
+                "valueOperator": "",
+                "minValue": 11,
+                "maxValue": 30
+            },
+            {
+                "id": "SanctumResolveOnRoomComplete",
+                "description": "Restore # Honour on room completion",
+                "valueOperator": "",
+                "minValue": 10,
+                "maxValue": 30
+            },
+            {
+                "id": "SanctumRevealExtraRoomEachFloor",
+                "description": "An additional Room is revealed on the Trial Map\n# additional Rooms are revealed on the Trial Map",
+                "valueOperator": "",
+                "minValue": 2,
+                "maxValue": 4
+            },
+            {
+                "id": "SanctumAvoidAfflictionChance",
+                "description": "#% chance to Avoid gaining an Affliction",
+                "valueOperator": "",
+                "minValue": 6,
+                "maxValue": 15
+            },
+            {
+                "id": "SanctumRelicQuantity",
+                "description": "#% increased quantity of Relics dropped by Monsters",
+                "valueOperator": "",
+                "minValue": 6,
+                "maxValue": 20
+            },
+            {
+                "id": "SanctumDodgeRollDistance",
+                "description": "# metres to Dodge Roll distance",
+                "valueOperator": "+",
+                "minValue": 0.3,
+                "maxValue": 0.7
+            },
+            {
+                "id": "SanctumSlowResistance",
+                "description": "#% reduced Slowing Potency of Debuffs on You",
+                "valueOperator": "",
+                "minValue": 8,
+                "maxValue": 20
+            },
+            {
+                "id": "SanctumReducedCritDamage",
+                "description": "Hits against you have #% reduced Critical Damage Bonus",
+                "valueOperator": "",
+                "minValue": 12,
+                "maxValue": 25
+            },
+            {
+                "id": "SanctumHonourOnGainKey",
+                "description": "Restore # Honour on picking up a Key",
+                "valueOperator": "",
+                "minValue": 25,
+                "maxValue": 75
+            },
+            {
+                "id": "SanctumHonourResistance",
+                "description": "#% to Honour Resistance",
+                "valueOperator": "+",
+                "minValue": 8,
+                "maxValue": 40
+            },
+            {
+                "id": "SanctumMaximumHonourResistance",
+                "description": "#% to Maximum Honour Resistance",
+                "valueOperator": "+",
+                "minValue": 2,
+                "maxValue": 5
+            },
+            {
+                "id": "SanctumKeyDropChance",
+                "description": "#% increased quantity of Keys dropped by Monsters",
+                "valueOperator": "",
+                "minValue": 6,
+                "maxValue": 25
+            }
+        ]
+    },
+    "CorruptAffixes": {
+        "description": "Corrupted Affixes that only show up on corrupted relics",
+        "affixes": [
+            {
+                "id": "SanctumResolveRecovery",
+                "description": "(8–10)% increased Honour restored",
+                "valueOperator": "",
+                "minValue": 8,
+                "maxValue": 10
+            }
+        ]
+    }
+}
